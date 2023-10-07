@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-import Route from "./router/Route.jsx";
+import Route from "./routes/Route.jsx";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 
 
