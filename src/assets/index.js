@@ -29,7 +29,7 @@ import tesla from "./company/tesla.png";
 import wcsLogo from "./company/wcsLogo.png";
 import merEtGolfLogo from "./company/merEtGolfLogo.jpeg";
 import carrefourLogo from "./company/carrefourLogo.jpg";
-import warnerBrosLogo from "./company/warnerBrosLogo.png";
+import warnerBrosLogo from "./company/WarnerBrosLogo.png";
 
 import carrent from "./carrent.png";
 import tripguide from "./tripguide.png";
