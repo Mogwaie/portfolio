@@ -1,27 +1,15 @@
 import {
     mobile,
     backend,
-    creator,
     web,
     javascript,
     typescript,
     html,
     css,
     reactjs,
-    redux,
-    tailwind,
     nodejs,
-    mongodb,
     git,
     figma,
-    docker,
-    meta,
-    starbucks,
-    tesla,
-    shopify,
-    carrent,
-    tripguide,
-    threejs,
     primereact,
     inovin,
     memoryLand,
@@ -92,10 +80,6 @@ import {
       name: "primeReact",
       icon: primereact,
     },
-    // {
-    //   name: "Three JS",
-    //   icon: threejs,
-    // },
     {
       name: "git",
       icon: git,
@@ -104,10 +88,6 @@ import {
       name: "figma",
       icon: figma,
     },
-    // {
-    //   name: "docker",
-    //   icon: docker,
-    // },
   ];
   
   const experiences = [
